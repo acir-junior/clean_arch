@@ -1,0 +1,1 @@
+[-] Projeto teste, com implementando clean architecture, clean code com micro frontends e micro backends.
